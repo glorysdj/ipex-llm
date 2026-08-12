@@ -2,6 +2,11 @@
 
 In this directory, you will find examples on how you could apply IPEX-LLM INT4 optimizations on Whisper models on [Intel GPUs](../../../README.md). For illustration purposes, we utilize the [openai/whisper-tiny](https://huggingface.co/openai/whisper-tiny) as a reference Whisper model.
 
+# NOTE：THIS PROJECT IS ARCHIVED  
+Intel will not provide or guarantee development of or support for this project, including but not limited to, maintenance, bug fixes, new releases or updates.  
+Patches to this project are no longer accepted by Intel.  
+This project has been identified as having known security issues. 
+
 ## 0. Requirements
 To run these examples with IPEX-LLM on Intel GPUs, we have some recommended requirements for your machine, please refer to [here](../../../README.md#requirements) for more information.
 
